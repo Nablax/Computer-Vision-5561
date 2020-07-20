@@ -33,31 +33,46 @@ Note that the testing images are provided by Prof.Hyun soo park.
 [**Assignment**](HW3/hw3.pdf)
 + **Tiny Image KNN Classification**
 <img src="HW3/screenshots/KNN.png" width="35%" height="35%"> 
-+ **Bag-of-word Visual Vocabulary**
+
++ **BoW + KNN**
 <img src="HW3/screenshots/KNN_BOW.png" width="35%" height="35%"> 
+
 + **BoW + SVM**
 <img src="HW3/screenshots/SVM_BOW.png" width="35%" height="35%"> 
 
 [**Report**](HW3/Summary.pdf)
 
-## HW4
-+ **Blind boosting for regression and classification** (very interesting)
-+ **Adaboost**
-+ **Random forest**
+## HW4: Convolutional Neural Network
+[**Assignment**](HW4/hw4.pdf)
++ **Single-layer Linear Perceptron**
+<img src="HW4/screenshots/SLLP.png" width="35%" height="35%">
 
-[**Report**](https://github.com/kbxpy12321/Machine-Learning-5525/blob/master/HW4/report.pdf)
++ **Single-layer Perceptron**
+<img src="HW4/screenshots/SLP.png" width="35%" height="35%"> 
 
-## HW5
-+ **GAN**
-<img src="HW5/visual results/GAN.png" width="50%" height="50%"> 
++ **Multi-layer Perceptron**
+<img src="HW4/screenshots/MLP.png" width="35%" height="35%"> 
 
-+ **Denoising AE**
-<img src="HW5/visual results/dAE.png" width="25%" height="25%"> 
++ **Convolutional Neural Network**
+<img src="HW4/screenshots/CNN.png" width="35%" height="35%"> 
 
-+ **VAE**
-<img src="HW5/visual results/VAE.png" width="25%" height="25%"> 
+[**Report**](HW4/Summary.pdf)
 
-+ **Adversarial examples**
-<img src="HW5/visual results/fool_ResNet.png" width="50%" height="50%"> 
+## HW5: Stereo Reconstruction
+[**Assignment**](HW5/hw5.pdf)
++ **SIFT Feature Matching**
+<img src="HW5/screenshots/sift_match.png" width="50%" height="50%"> 
 
-[**Report**](https://github.com/kbxpy12321/Machine-Learning-5525/blob/master/HW5/report.pdf)
++ **Fundamental Matrix Computation**
+<img src="HW5/screenshots/epiline.png" width="50%" height="50%"> 
+
++ **Triangulation**
+<img src="HW5/screenshots/camerapose.png" width="50%" height="50%"> 
+
++ **Pose Disambiguation**
+
++ **Stereo**
+<img src="HW5/screenshots/recti.png" width="50%" height="50%"> 
+<img src="HW5/screenshots/disparity.png" width="50%" height="50%"> 
+
+[**Report**](HW5/Summary.pdf)
